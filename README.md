@@ -1,38 +1,86 @@
-# Electiva VI - Ciencia de Datos - 2026-B
+# 📊 Ciencia de Datos
 
-Repositorio de clase - Corporacion Universitaria del Huila (CORHUILA).
+## 👩‍💻 Información del estudiante
 
-| | |
-| --- | --- |
-| **Grupo** | Ciencia de Datos |
-| **Horario** | Sabado 6:00 a. m. - 7:40 a. m. |
-| **Aula** | C4-409 |
-| **Semestre** | 2026-B |
-| **Frecuencia** | 1 sesion por semana |
+**Nombre completo:** Ana Sofía Jiménez Ostos  
+**Usuario de GitHub:** Jimenez-A  
+**Programa académico:** Ingeniería Mecatrónica  
+**Institución:** Corporación Universitaria del Huila — CORHUILA  
+**Área:** Ciencia de Datos  
 
-## Estructura
+---
 
-El repositorio esta organizado en 16 semanas (`01-week` .. `16-week`).
-Cada semana tiene la siguiente forma:
+## 📖 Presentación
 
-```
-NN-week/
-|-- 01-session/           # Sesion de la semana
-\-- 02-optional-activity/ # Actividad opcional de refuerzo
-```
+Hola, soy **Ana Sofía Jiménez Ostos**, estudiante de **Ingeniería Mecatrónica** en la **Corporación Universitaria del Huila (CORHUILA)**.
 
-- Las carpetas `NN-session` contienen el material trabajado en clase.
-- `optional-activity` guarda ejercicios opcionales de refuerzo, no calificables.
+Este repositorio está orientado al aprendizaje y desarrollo de actividades relacionadas con **Ciencia de Datos**, explorando diferentes métodos para el análisis, procesamiento e interpretación de información.
 
-## Como trabajar
+---
 
-```bash
-git clone https://github.com/code-corhuila/electiva-vi-ciencia-datos-2026-b-g1.git
-cd electiva-vi-ciencia-datos-2026-b-g1
-```
+## 🎯 Objetivo
 
-Antes de cada clase, actualiza tu copia local:
+Desarrollar conocimientos y habilidades en **Ciencia de Datos**, aplicando diferentes técnicas para recopilar, organizar, analizar e interpretar datos con el propósito de obtener información útil y apoyar la toma de decisiones.
 
-```bash
-git pull origin main
+---
+
+## 📚 Temas
+
+Durante el desarrollo del repositorio se trabajarán diferentes conceptos relacionados con:
+
+- 📥 Adquisición y organización de datos
+- 🧹 Limpieza y preparación de datos
+- 📊 Análisis exploratorio de datos
+- 📈 Visualización de datos
+- 🔎 Identificación de patrones y tendencias
+- 📐 Análisis estadístico
+- 🤖 Introducción al aprendizaje automático
+- 📊 Interpretación de resultados
+
+---
+
+## 📊 Proceso de Ciencia de Datos
+
+```text
+Datos
+  ↓
+Recolección
+  ↓
+Limpieza y preparación
+  ↓
+Análisis exploratorio
+  ↓
+Visualización
+  ↓
+Interpretación
+  ↓
+Resultados
+````
+
+---
+
+## 👩‍🎓 Datos académicos
+
+| Información     | Datos                   |
+| --------------- | ----------------------- |
+| **Estudiante**  | Ana Sofía Jiménez Ostos |
+| **GitHub**      | Jimenez-A               |
+| **Programa**    | Ingeniería Mecatrónica  |
+| **Institución** | CORHUILA                |
+| **Área**        | Ciencia de Datos        |
+
+---
+
+## 🚀 Propósito del repositorio
+
+Este repositorio será utilizado para almacenar y documentar las actividades, ejercicios, análisis y proyectos desarrollados en el área de **Ciencia de Datos**.
+
+---
+
+## 👩‍💻 Autora
+
+**Ana Sofía Jiménez Ostos**
+Ingeniería Mecatrónica — CORHUILA
+GitHub: **Jimenez-A**
+
 ```
