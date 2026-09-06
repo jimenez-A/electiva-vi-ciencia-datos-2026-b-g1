@@ -47,7 +47,7 @@ Los pedidos realizados mediante plataformas digitales utilizan formatos como **J
 
 Ejemplo:
 
-```json
+json
 {
   "pedido": 105,
   "producto": "Capuchino",
