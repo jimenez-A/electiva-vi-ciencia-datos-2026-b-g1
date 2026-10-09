@@ -108,11 +108,11 @@ print(clientes_frecuentes.sort_values(by='gasto_acumulado', ascending=False))
 
 El flujo de trabajo implementado se articula en tres fases secuenciales que aseguran la trazabilidad y reproducibilidad del estudio:
 
-# Extracción (Extract): Adquisición de los datos crudos desde fuentes primarias o repositorios institucionales.
+Extracción (Extract): Adquisición de los datos crudos desde fuentes primarias o repositorios institucionales.
 
-# Transformación (Transform): Depuración, limpieza de nulos, tipificación y estructuración del modelo relacional en Python.
+Transformación (Transform): Depuración, limpieza de nulos, tipificación y estructuración del modelo relacional en Python.
 
-# Análisis y Carga (Load & Analyze): Ejecución de consultas de filtrado y agregación para la obtención de indicadores clave de rendimiento (KPIs).
+Análisis y Carga (Load & Analyze): Ejecución de consultas de filtrado y agregación para la obtención de indicadores clave de rendimiento (KPIs).
 
 ## Referencias Bibliográficas
 
